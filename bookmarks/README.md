@@ -11,3 +11,4 @@ order: 0
 - [Buy Now - HogEye Cameras](https://hogeyecameras.com/buy-now/) <!-- glyphrig: added=2026-11-23 by=joshuacox -->
 - [Kalshi - Prediction Market for Trading the Future](https://kalshi.com/) <!-- glyphrig: added=2026-11-23 by=joshuacox -->
 - [bilawalsidhu/gods-eye-view: God's Eye View: a spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe. Official site: godseyeview.ai](https://github.com/bilawalsidhu/gods-eye-view) <!-- glyphrig: added=2026-11-23 by=joshuacox -->
+- [Glyphrig — Two-Way Git Bookmark Sync & Digital Garden](https://glyphrig.github.io/Glyphrig/) <!-- glyphrig: added=2026-11-23 by=joshuacox -->
